@@ -355,6 +355,22 @@
             position: relative;
             font-weight: 600;
         }
+
+            @media (max-width: 1710px) {
+
+            #picture2 {
+                height: 933px;
+            }
+
+            #picture {
+                height: 840px;
+            }
+
+            #picture3 {
+                height: 746px;
+            }
+
+        }
         
         @media (max-width: 1670px) {
 
@@ -367,7 +383,7 @@
             }
 
             #picture3 {
-                height: 806px;
+                height: 746px;
             }
 
         }
